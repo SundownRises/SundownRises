@@ -37,12 +37,31 @@
             Delhi . Offers strong interpersonal and task prioritization skills. I am also Hardworking with
             solid organizational skills .
         </pre></section>
-          <section><pre>
+        <section><pre>
             ABOUT:
-            I completed my 12th from Science stream with Physics, Chemistry, Maths, Biology, English, and Physical Education. 
-            Currently Studying Computer Science and Artificial Intelligence from Netaji Subhash University of Technology,
-            one of the best University .
-            </pre></section>
+            Anikait Sehwag
+            Current Position: Third-Year Student at Netaji Subhas University of Technology
+            Major: Computer Science and Artificial Intelligence (CSAI)
+            I am a dedicated and passionate student specializing in Computer Science and Artificial Intelligence
+            at Netaji Subhas University of Technology.
+            With a strong foundation in Data Structures and Algorithms (DSA), Design and Analysis of Algorithms (DAA),
+            and competitive programming, I am committed to continuous learning and growth in the field of computer science. 
+            I actively seek opportunities to apply my knowledge and skills to real-world problems,contribute to innovative
+            projects, and collaborate with like-minded professionals in the industry.
+          <br>
+            Education:
+            Netaji Subhas University of Technology
+            Pursuing Bachelor of Technology (B.Tech) in Computer Science and Artificial Intelligence
+            Expected Graduation: 2026
+          <br>
+            High School
+            St. Francis de Sales Senior Secondary School
+          <br>
+            Skills:
+            Data Structures and Algorithms (DSA)
+            Design and Analysis of Algorithms (DAA)
+            Competitive Programming
+        </pre></section>
         <section><pre>
             SKILLS:
             Exceptional teamwork skills
