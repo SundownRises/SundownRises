@@ -48,19 +48,19 @@
             Current Position: Third-Year Student at Netaji Subhas University of Technology
             Major: Computer Science and Artificial Intelligence (CSAI)
             I am a dedicated and passionate student specializing in Computer Science and Artificial Intelligence
-            at Netaji Subhas University of Technology.
+            at Netaji Subhas University of Technology, New Delhi.
             With a strong foundation in Data Structures and Algorithms (DSA), Design and Analysis of Algorithms (DAA),
             and competitive programming, I am committed to continuous learning and growth in the field of computer science. 
             I actively seek opportunities to apply my knowledge and skills to real-world problems,contribute to innovative
             projects, and collaborate with like-minded professionals in the industry.
           <br>
             Education:
-            Netaji Subhas University of Technology
+            Netaji Subhas University of Technology, New Delhi
             Pursuing Bachelor of Technology (B.Tech) in Computer Science and Artificial Intelligence
             Expected Graduation: 2026
           <br>
             High School
-            St. Francis de Sales Senior Secondary School
+            St. Francis de Sales Senior Secondary School, New Delhi
           <br>
             Skills:
             Data Structures and Algorithms (DSA)
