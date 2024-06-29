@@ -5,16 +5,16 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anikait-sehwag-00b427243/" target="_main">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white "target="_main" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/anikait-sehwag-00b427243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white "target="_blank" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.leetcode.com/u/SundownRises/" target="_main">
+  <a href="https://www.leetcode.com/u/SundownRises/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
  
-  <a href="https://twitter.com/SundownRises" target="_main">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_main" alt="Twitter Badge"/>
+  <a href="https://twitter.com/SundownRises" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter Badge"/>
   </a>
 
 </div>
