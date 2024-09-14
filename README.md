@@ -2,8 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
----
 
+[![](https://visitcount.itsvg.in/api?id=SundownRises&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SundownRises&theme=radical&no-frame=true&no-bg=false&margin-w=4)
